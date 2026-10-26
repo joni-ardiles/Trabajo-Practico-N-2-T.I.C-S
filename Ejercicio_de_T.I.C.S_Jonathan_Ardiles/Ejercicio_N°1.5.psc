@@ -17,4 +17,4 @@ Algoritmo Ejercicio_N15
 	Hasta Que resto < divisor
 	Escribir "Cociente: ", cociente;
 	Escribir "Resto: ", resto;
-	FinAlgoritmo
+FinAlgoritmo
