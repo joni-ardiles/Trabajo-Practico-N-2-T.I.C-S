@@ -42,4 +42,4 @@ Algoritmo Ejercicio_N17
 			FinSi
 		FinSi
 	FinSi
-	FinAlgoritmo
+FinAlgoritmo
