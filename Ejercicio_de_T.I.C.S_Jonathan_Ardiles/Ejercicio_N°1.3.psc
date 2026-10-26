@@ -27,4 +27,4 @@ Algoritmo Ejercicio_N13
 	Escribir "Experiencia laboral: ", experiencia, " años";
 	Escribir "Pretension salarial: $", salario;
 	Escribir "Ficha procesada con exito.";
-	FinAlgoritmo
+FinAlgoritmo
