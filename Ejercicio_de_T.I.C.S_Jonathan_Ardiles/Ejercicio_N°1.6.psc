@@ -39,4 +39,4 @@ Algoritmo Ejercicio_N16
 		Escribir "No se registraron personas encuestadas";
 	FinSi
 	Escribir "Cantidad total de personas viudas: ", viudos;
-	FinAlgoritmo
+FinAlgoritmo
