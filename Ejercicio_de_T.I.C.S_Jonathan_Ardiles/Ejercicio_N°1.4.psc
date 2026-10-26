@@ -15,4 +15,4 @@ Algoritmo Ejercicio_N14
 	Hasta Que defectuosas = 3
 	Escribir "Se detectaron 3 piezas defectuosas consecutivas";
 	Escribir "Total de piezas validas procesadas: ", validas;
-	FinAlgoritmo
+FinAlgoritmo
